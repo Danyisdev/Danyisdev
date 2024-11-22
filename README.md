@@ -1,17 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Dany 👋
 
-<!--
-**Danyisdev/Danyisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Who am I?**
+I'm a junior web developer focusing on PHP and JavaScript, currently learning by building private projects.
 
-Here are some ideas to get you started:
+👨‍💻 **Let's Connect!**
+I'm open to learning and collaborating on beginner-friendly projects. Feel free to reach out on [LinkedIn](https://linkedin.com/in/danyms).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Danyisdev%20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danyisdev%20&theme=gotham&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+
+Happy coding! 💻
+
