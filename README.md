@@ -1,7 +1,7 @@
 # Hi there, I'm Dany 👋
 
 🤖 **Who am I?**
-I'm a junior web developer focusing on PHP and JavaScript, currently learning by building private projects.
+I'm a junior web developer focusing on PHP and JavaScript, currently working at Axioo (PT Tera Data Indonusa, Tbk) and learning Next.js by building private projects.
 
 👨‍💻 **Let's Connect!**
 I'm open to learning and collaborating on beginner-friendly projects. Feel free to reach out on [LinkedIn](https://linkedin.com/in/danyms).
