@@ -1,7 +1,3 @@
-Help me improve my git profile
-
-
-
 # Hi, I'm Dany
 
 
