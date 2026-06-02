@@ -20,4 +20,4 @@ I am always looking to learn, grow, and collaborate on interesting projects. If 
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Danyisdev&theme=gotham&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danyisdev%20&theme=gotham&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
